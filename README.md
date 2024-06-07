@@ -2,12 +2,14 @@
   Kashish Makhija
   <p align='center'>
 
-    ![WhatsApp Image 2024-06-07 at 12 57 24 PM](https://github.com/kashish0821/kashish0821.github.io/assets/116487849/78996378-eab7-4463-9f26-6ba89d50d52d)
-    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=[your-github-username].visitor-badge">
+  
   </p>
 </h1>
 
 <h2 align="center">
+
+  ![WhatsApp Image 2024-06-07 at 12 57 24 PM](https://github.com/kashish0821/kashish0821.github.io/assets/116487849/2ae8469a-9e4a-4fc6-b0d5-5783a5157d02)
+
   About Me
   <p align="center">
     I am Kashish Makhija, a dedicated and results-driven IT Technician with 2 year of experience in Information Technology. Currently, I work with Sahib Sewa Inc, where I work as a DBA. My expertise lies in managing their data and their backend work.
