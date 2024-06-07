@@ -8,7 +8,8 @@
 
 <h2 align="center">
 
-  ![WhatsApp Image 2024-06-07 at 12 57 24 PM](https://github.com/kashish0821/kashish0821.github.io/assets/116487849/2ae8469a-9e4a-4fc6-b0d5-5783a5157d02)
+  ![WhatsApp Image 2024-06-07 at 12 53 33 PM](https://github.com/kashish0821/kashish0821.github.io/assets/116487849/ddd1f43f-a97e-494e-8287-386bc6414252)
+
 
   About Me
   <p align="center">
