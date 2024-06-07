@@ -32,42 +32,41 @@
 
 ## Education
 
-### [University Name]
-#### [Degree], [Field of Study]
-##### [Duration]
+### Kwantlen Polytechnic University
+####  Bachelors in Information Technology
+##### 1/9/2020 to Present
 
-* [Relevant coursework or academic achievements]
+
+### Windermere Secondary School
+#### High School
+
+
+
+
+
 
 ## Skills
 
 ### Programming Languages
 
-* [Language 1]
-* [Language 2]
-* [Language 3]
+* c++
+* html
+* JAVA
+* SQL
+* Python
+  
 
 ### Tools and Technologies
 
-* [Tool 1]
-* [Tool 2]
-* [Tool 3]
+* Eclipse
+* MySql
+* pgAdmin
+* Android Studio
 
-## Projects
-
-### [Project 1]
-
-* [Brief description of project]
-* [Link to project repository or live demo]
-
-### [Project 2]
-
-* [Brief description of project]
-* [Link to project repository or live demo]
 
 ## Contact
 
-* [Your email address]
-* [Your LinkedIn profile]
-* [Your Twitter profile]
+* kashish.makhija@student.kpu.ca
+  
 
 
