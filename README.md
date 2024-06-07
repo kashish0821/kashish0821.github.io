@@ -1,5 +1,5 @@
 <h1 align="center">
-  [Your Name]
+  [Kashish Makhija]
   <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=[your-github-username].visitor-badge">
     <a href="https://twitter.com/intent/follow?screen_name=[your-twitter-username]">
@@ -63,4 +63,4 @@
 * [Your LinkedIn profile]
 * [Your Twitter profile]
 
-Note: Replace `[Your Name]`, `[your-github-username]`, `[your-twitter-username]`, `[Company Name]`, `[Job Title]`, `[Duration]`, `[University Name]`, `[Degree]`, `[Field of Study]`, `[Language 1]`, `[Language 2]`, `[Language 3]`, `[Tool 1]`, `[Tool 2]`, `[Tool 3]`, `[Project 1]`, `[Project 2]`, `[Your email address]`, `[Your LinkedIn profile]`, and `[Your Twitter profile]` with your own information.
+
