@@ -8,11 +8,19 @@
 <h2 align="center">
   About Me
   <p align="center">
-    [Your short bio or description]
+    I am Kashish Makhija, a dedicated and results-driven IT Technician with 2 year of experience in Information Technology. Currently, I work with Sahib Sewa Inc, where I work as a DBA. My expertise lies in managing their data and their backend work.
   </p>
 </h2>
 
 ## Experience
+
+### [Company Name]
+#### [Job Title]
+##### [Duration]
+
+### [Company Name]
+#### [Job Title]
+##### [Duration]
 
 ### [Company Name]
 #### [Job Title]
