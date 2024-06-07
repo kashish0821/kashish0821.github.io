@@ -1,10 +1,7 @@
 <h1 align="center">
-  [Kashish Makhija]
+  Kashish Makhija
   <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=[your-github-username].visitor-badge">
-    <a href="https://twitter.com/intent/follow?screen_name=[your-twitter-username]">
-      <img src="https://img.shields.io/twitter/follow/[your-twitter-username]?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
   </p>
 </h1>
 
