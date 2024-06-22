@@ -1,30 +1,46 @@
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
 }
 
-#map {
-    height: 100vh;
-    width: 100%;
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
 }
 
-.info {
-    position: absolute;
-    margin-left: 52vh;
-    top: 20px;
-    left: 20px;
-    padding: 15px;
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+header h1 {
+  margin: 0;
 }
 
-.info h2 {
-    margin: 0;
-    padding: 0;
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
 }
 
-.info p {
-    margin: 5px 0;
+#map-container {
+  width: 600px;
+  height: 450px;
+  border: 1px solid #ddd;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
